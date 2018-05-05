@@ -44,11 +44,7 @@ document.addEventListener('DOMContentLoaded',function () {
                 $(this).animate({opacity: 1}, (i + 1) * 300);
             });
         }
-
-
         animate();
-
-
 
     })
 
